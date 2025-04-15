@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework in research, please cite it as below."
+authors:
+  - family-names: Šikulínec
+    given-names: Vladimír
+title: Quinar Framework v6.1.2 – Hybrid Simulation of Quantum Interference without Quantum Hardware
+version: 6.1.2
+doi: 10.5281/zenodo.15220187
+date-released: 2025-04-14
+repository-code: https://github.com/quinar-lab/quinar-framework
+license: MIT
+keywords:
+  - quantum interference
+  - hybrid simulation
+  - gravitational deformation
+  - photon systems
