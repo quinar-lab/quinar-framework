@@ -23,3 +23,6 @@ This repository contains the final release of the Quinar Framework (v6.1.2), a r
 
 If you use this framework in research, please cite:
 
+Šikulínec, V. (2025). *Quinar Framework: A Unified Model for Gravitational Quantum Interference*. Zenodo. https://doi.org/10.5281/zenodo.1234567
+
+
