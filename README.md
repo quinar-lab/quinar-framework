@@ -19,10 +19,13 @@ This repository contains the final release of the Quinar Framework (v6.1.2), a r
 - Designed for educational, research, and theoretical use
 - Fully open-source (MIT License + CC-BY 4.0)
 
-### Citation
+## Citation
 If you use this framework in research, please cite:
 
-Šikulínec, V. (2025). *Quinar Framework v6.1.2 – Hybrid Simulation of Quantum Interference without Quantum Hardware (Final Academic Bundle)*. Zenodo. https://doi.org/10.5281/zenodo.15220187
+Šikulínec, V. (2025). *Quinar Framework v6.1.2 – Hybrid Simulation of Quantum Interference without Quantum Hardware (Final Academic Bundle)*. Zenodo. [https://doi.org/10.5281/zenodo.15220187](https://doi.org/10.5281/zenodo.15220187)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15220187.svg)](https://doi.org/10.5281/zenodo.15220187)
+
 
 
 
